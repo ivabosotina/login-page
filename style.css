@@ -1,0 +1,30 @@
+body {
+    background-image: url('example_img_girl.jpg');
+    background-repeat: no-repeat;
+  }
+
+.text-secondary {
+    margin-top: 40px;
+}
+
+
+body {
+    background-image: url('https://www.komar.de/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/9/8/983-dv3_seaside_ma.jpg');
+    background-repeat: no-repeat;
+  }
+
+.loginform {
+    width: 500px;
+    border-radius: 10px;
+    background-color: #e0f7fa;
+    padding: 40px 20px 40px 20px;
+    margin-top: 40px !important;
+
+}
+
+.rounded-corners {
+    border-radius: 40px;
+    margin-top:20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
